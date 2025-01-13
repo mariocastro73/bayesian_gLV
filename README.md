@@ -15,7 +15,7 @@ source mbam_venv/bin/activate
 ```
 Upgrade pip, just in case
 ```python
-pip install --upgrade pip\n
+pip install --upgrade pip
 ```
 Install required packages
 ```python
