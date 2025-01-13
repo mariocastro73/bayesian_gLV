@@ -1,4 +1,4 @@
-# Code for manuscript: "Scarse Data, Noisy Inferences, and Overfitting: The Hidden Flaws in Ecological Dynamics Modeling" 
+# Code for manuscript: "Scarce Data, Noisy Inferences, and Overfitting: The Hidden Flaws in Ecological Dynamics Modeling" 
 
 ## Python codes
 Codes that implement model reduction for the generalized lotka volterra model
