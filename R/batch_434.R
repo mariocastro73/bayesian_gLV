@@ -15,4 +15,4 @@ for(noise_level in c(0.01)) {
   rda_list[[noise]] <- fit
 }
 
-save(rda_list, file="stan_lotka_434_fits.rda")
+# save(rda_list, file="stan_lotka_434_fits.rda")
